@@ -42,3 +42,39 @@ h2 {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
+
+.dream-big {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.experience-area {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+#full-stack-developer {
+    border-left: 7px solid red;
+
+}
+
+#baby-wab-developer {
+    border-left: 7px solid blue;
+
+}
+
+.footer P {
+    text-align: center;
+}
